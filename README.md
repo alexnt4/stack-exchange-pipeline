@@ -181,6 +181,8 @@ pip install jupyter
 
 ## Metrics and Analysis
 
+![Visualization](assets/images/image.png)
+
 ## Design Patterns Implemented
 
 **Lakehouse-Spark Architecture Patterns:**
@@ -229,7 +231,3 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ---
 
 **Developed using Apache Spark and Delta Lake - Lakehouse-Spark Architecture**
-
-```
-
-```
