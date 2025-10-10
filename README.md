@@ -177,7 +177,7 @@ pip install pyspark[sql]==4.0.1
 pip install delta-spark==4.0.0
 pip install great-expectations
 pip install jupyter
-
+```
 
 ## Metrics and Analysis
 
@@ -229,4 +229,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ---
 
 **Developed using Apache Spark and Delta Lake - Lakehouse-Spark Architecture**
+
+```
+
 ```
