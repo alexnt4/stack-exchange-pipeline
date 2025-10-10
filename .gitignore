@@ -10,7 +10,8 @@ wheels/
 .venv
 
 # raw data 
-!data/raw/.gitkeep
+#!data/raw/.gitkeep
+data/raw
 
 # spark-warehouse
 medallion/spark-warehouse/
